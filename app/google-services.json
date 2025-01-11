@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16017426107",
+    "project_id": "note-dece2",
+    "storage_bucket": "note-dece2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16017426107:android:af9666025a09ac307b8b9e",
+        "android_client_info": {
+          "package_name": "com.example.textjet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfslgwxOT83r47D7TkTWZvTAzCBi_ieU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16017426107:android:deb13f2ec1ee74b07b8b9e",
+        "android_client_info": {
+          "package_name": "com.howtokaise.jetnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfslgwxOT83r47D7TkTWZvTAzCBi_ieU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
